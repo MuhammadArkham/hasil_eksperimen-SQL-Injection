@@ -103,7 +103,7 @@ You have an error in your SQL syntax...
 
 Error SQL muncul langsung di browser, membuktikan input tidak disanitasi sebelum dimasukkan ke query database.
 
-![Eksperimen 2](screenshots/exp2-sql-error.png)
+![Eksperimen 2](https://github.com/MuhammadArkham/hasil_eksperimen-SQL-Injection/blob/main/Screenshot%202026-04-29%20153723.png?raw=true)
 
 ---
 
