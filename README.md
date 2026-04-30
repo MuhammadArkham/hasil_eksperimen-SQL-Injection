@@ -83,7 +83,7 @@ Surname: admin
 
 Aplikasi mengembalikan satu data user sesuai ID yang dimasukkan. Ini adalah perilaku normal.
 
-![Eksperimen 1](screenshots/exp1-normal-input.png)
+![Eksperimen 1](https://github.com/MuhammadArkham/hasil_eksperimen-SQL-Injection/blob/main/Screenshot%202026-04-29%20155617.png?raw=true)
 
 ---
 
@@ -126,7 +126,7 @@ First name: Bob      | Surname: Smith
 
 Seluruh isi tabel users berhasil diekstrak hanya dengan satu baris input.
 
-![Eksperimen 3](screenshots/exp3-dump-users.png)
+![Eksperimen 3](https://github.com/MuhammadArkham/hasil_eksperimen-SQL-Injection/blob/main/preview.webp?raw=true)
 
 ---
 
@@ -145,7 +145,7 @@ Surname: 10.4.32-MariaDB
 
 Versi database berhasil ditampilkan. Informasi ini berguna bagi penyerang untuk mencari eksploit spesifik pada versi tersebut.
 
-![Eksperimen 4](screenshots/exp4-db-version.png)
+![Eksperimen 4](https://github.com/MuhammadArkham/hasil_eksperimen-SQL-Injection/blob/main/Screenshot%202026-04-29%20161218.png?raw=true)
 
 ---
 
@@ -168,7 +168,7 @@ smithy  : 5f4dcc3b5aa765d61d8327deb882cf99
 
 Seluruh username dan hash password MD5 berhasil diekstrak. Hash MD5 dapat di-crack menggunakan tools seperti hashcat atau situs crackstation.net.
 
-![Eksperimen 5](screenshots/exp5-password-hash.png)
+![Eksperimen 5](https://github.com/MuhammadArkham/hasil_eksperimen-SQL-Injection/blob/main/Screenshot%202026-04-29%20161256.png?raw=true)
 
 ---
 
